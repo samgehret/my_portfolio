@@ -4,6 +4,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 50px;
 }
+main{
+    align-content: center;
+}
 
 .flex-top{
     display: flex;
@@ -12,7 +15,9 @@ body {
 }
 
 .flex-bottom{
-    display: flex;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 img {
