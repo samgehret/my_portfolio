@@ -33,7 +33,7 @@ main{
 }
 
 img {
-    width:150x;
+    max-width: 150x;
     height: 150px;
     margin-left: auto;
 	margin-right: auto;
